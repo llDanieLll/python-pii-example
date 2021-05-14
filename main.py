@@ -2,9 +2,10 @@
 
 def main():
 
-    #Adding a different comment
-    #print a message this is the second time
-
+    # No longer need comments
     print("This is main function.")
+    
+def secondary():
+    print("New FUNCTION")
 
 main()
