@@ -1,0 +1,1 @@
+This is an example project to demonstrate the use oof git on Ubuntu.
